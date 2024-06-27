@@ -1,4 +1,4 @@
-# Optimizing Hospitality: Forecasting Hotel Booking Fulfillment[
+# Optimizing Hospitality: Forecasting Hotel Booking Fulfillment
 
 Scenario: What this project is about
 
